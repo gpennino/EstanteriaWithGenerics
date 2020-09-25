@@ -27,21 +27,21 @@ namespace Generics
         }
 
         /// <summary>
-        /// Nombre de la bebida.
+        /// Nombre del congelado.
         /// </summary>
-        /// <returns>El nombre de la bebida.</returns>
+        /// <returns>El nombre del congelado.</returns>
         public string Nombre { get; }
 
         /// <summary>
-        /// Sabor de la bebida.
+        /// La marca de la bebida.
         /// </summary>
-        /// <returns>El sabor de la bebida.</returns>
+        /// <returns>La marca de la bebida.</returns>
         public string Marca { get; }
 
         /// <summary>
-        /// Si la bebida es dulce.
+        /// El vencimiento.
         /// </summary>
-        /// <returns>Si la bebida es dulce.</returns>
+        /// <returns>El Vencimiento del congelado.</returns>
         public String Vencimiento { get; }
     }
 }

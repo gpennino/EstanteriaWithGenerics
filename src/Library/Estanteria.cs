@@ -31,9 +31,9 @@ namespace Generics
         }
 
         /// <summary>
-        /// Retorna un enumerador que recorre un el contenedor.
+        /// Retorna todos los elementos que están en la estantería.
         /// </summary>
-        /// <returns>Un objeto <see ref="IEnumerator"/> que puede ser usado para recorrer el contenedor</returns>
+        /// <returns>Una lista de <T></returns>
         public IList<T> GetAll()
         {
             IList<T> resultado = new List<T>();

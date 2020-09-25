@@ -35,13 +35,13 @@ namespace Generics
         /// <summary>
         /// Sabor de la bebida.
         /// </summary>
-        /// <returns>El sabor de la bebida.</returns>
+        /// <returns>El tipo del comestible.</returns>
         public string Tipo { get; }
 
         /// <summary>
         /// Si la bebida es dulce.
         /// </summary>
-        /// <returns>Si la bebida es dulce.</returns>
+        /// <returns>El peso del comestible.</returns>
         public double Peso { get; }
     }
 }
