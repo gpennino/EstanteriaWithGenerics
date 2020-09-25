@@ -1,0 +1,13 @@
+C:\Users\Gonzalo\Documents\PII\EstanteriaWGenerics\obj\Debug\netcoreapp3.1\EstanteriaWGenerics.csprojAssemblyReference.cache
+C:\Users\Gonzalo\Documents\PII\EstanteriaWGenerics\obj\Debug\netcoreapp3.1\EstanteriaWGenerics.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Documents\PII\EstanteriaWGenerics\obj\Debug\netcoreapp3.1\EstanteriaWGenerics.AssemblyInfo.cs
+C:\Users\Gonzalo\Documents\PII\EstanteriaWGenerics\obj\Debug\netcoreapp3.1\EstanteriaWGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Documents\PII\EstanteriaWGenerics\bin\Debug\netcoreapp3.1\EstanteriaWGenerics.exe
+C:\Users\Gonzalo\Documents\PII\EstanteriaWGenerics\bin\Debug\netcoreapp3.1\EstanteriaWGenerics.deps.json
+C:\Users\Gonzalo\Documents\PII\EstanteriaWGenerics\bin\Debug\netcoreapp3.1\EstanteriaWGenerics.runtimeconfig.json
+C:\Users\Gonzalo\Documents\PII\EstanteriaWGenerics\bin\Debug\netcoreapp3.1\EstanteriaWGenerics.runtimeconfig.dev.json
+C:\Users\Gonzalo\Documents\PII\EstanteriaWGenerics\bin\Debug\netcoreapp3.1\EstanteriaWGenerics.dll
+C:\Users\Gonzalo\Documents\PII\EstanteriaWGenerics\bin\Debug\netcoreapp3.1\EstanteriaWGenerics.pdb
+C:\Users\Gonzalo\Documents\PII\EstanteriaWGenerics\obj\Debug\netcoreapp3.1\EstanteriaWGenerics.dll
+C:\Users\Gonzalo\Documents\PII\EstanteriaWGenerics\obj\Debug\netcoreapp3.1\EstanteriaWGenerics.pdb
+C:\Users\Gonzalo\Documents\PII\EstanteriaWGenerics\obj\Debug\netcoreapp3.1\EstanteriaWGenerics.genruntimeconfig.cache
